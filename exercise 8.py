@@ -1,6 +1,3 @@
-# 8. Mostrar en pantalla todos los pares comprendidos entre 20 y 200
-
-
 def main():
     one_to_hundred()
 
