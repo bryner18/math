@@ -1,6 +1,3 @@
-# 13. Leer un entero y mostrar todos los múltiplos de 5 comprendidos entre 1 y el número leído.
-
-
 def main():
     multiple_between_5()
 
