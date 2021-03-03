@@ -1,6 +1,3 @@
-# 7. Mostrar en pantalla todos los enteros comprendidos entre 1 y 100.
-
-
 def main():
     one_to_hundred()
 
