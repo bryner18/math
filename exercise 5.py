@@ -1,5 +1,3 @@
-# 5. Leer dos números y mostrar todos los números terminados en 4 comprendidos entre ellos.
-
 import sys
 
 
