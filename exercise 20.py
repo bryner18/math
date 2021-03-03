@@ -1,6 +1,3 @@
-# 20. Leer un número entero y calcular a cuánto es igual la sumatoria de todas las factoriales de los números comprendidos entre 1 y el número leído.
-
-
 def main():
     factorial()
 
