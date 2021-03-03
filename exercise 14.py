@@ -1,6 +1,3 @@
-# 14. Mostrar en pantalla los primeros 20 múltiplos de 3.
-
-
 def main():
     first_20()
 
