@@ -1,6 +1,3 @@
-# 10. Leer un número entero y determinar a cuánto es igual la suma de todos los enteros comprendidos entre 1 y el número leído.
-
-
 def main():
     total_sum()
 
