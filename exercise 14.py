@@ -4,11 +4,13 @@ def main():
 
 def first_20():
     print("These are the first 20 multiples of the number 3: ")
-    n = 0
-    while n < 20:
-        n = n + 1
-        if n % 3 == 0:
-            print("[", n, "]", end=" ")
+    a = 0
+    b = 0
+    while b < 20:
+        a = a + 1
+        if a % 3 == 0:
+            b = b + 1
+            print(a)
 
 
 main()
