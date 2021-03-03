@@ -4,14 +4,15 @@ def main():
 
 def first_20_sum():
     print("This is the sum of the first 20 multiples of the number 3: ")
-    n1 = 0
-    n2 = 0
-    while n1 < 20:
-        n1 = n1 + 1
-        if n1 % 3 == 0:
-            n2 = n2 + n1
-            print(n2)
-    print("Sum: [", n2, "]")
+    a = 0
+    b = 0
+    c = 0
+    while b < 20:
+        a = a + 1
+        if a % 3 == 0:
+            b = b + 1
+            c = c + a
+    print("[", c, "]")
 
 
 main()
