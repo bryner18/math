@@ -1,6 +1,3 @@
-# 11. Leer un número entero de dos dígitos y mostrar en pantalla todos los enteros comprendidos entre un dígito y otro.
-
-
 def main():
     numbers_between_digits()
 
