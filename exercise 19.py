@@ -1,6 +1,3 @@
-# 19. Leer un número entero y mostrar en pantalla su tabla de multiplicar
-
-
 def main():
     mult_table()
 
