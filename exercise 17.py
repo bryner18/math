@@ -1,6 +1,3 @@
-# 17. Leer números hasta que digiten 0 y determinar a cuánto es igual el promedio de los números terminados en 5.
-
-
 def main():
     main_equation()
 
