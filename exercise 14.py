@@ -10,7 +10,7 @@ def first_20():
         a = a + 1
         if a % 3 == 0:
             b = b + 1
-            print(a)
+            print("[", a, "]")
 
 
 main()
