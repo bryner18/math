@@ -1,8 +1,6 @@
 # math
 Some math problems i did today for college. The exercises are below.
 
-Cycle Exercises:
-
 1. Read a whole number and show all the integers between 1 and the number read.
 2. Read a whole number and show all pairs between 1 and the number read.
 3. Read a whole number and show all the exact divisors of the number between 1 and the number read.
