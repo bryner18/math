@@ -1,5 +1,3 @@
-# 4. Leer dos números y mostrar todos los enteros comprendidos entre ellos.
-
 import sys
 
 
