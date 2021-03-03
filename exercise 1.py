@@ -1,5 +1,3 @@
-# 1. Leer un número entero y mostrar todos los enteros comprendidos entre 1 y el número leído.
-
 import sys
 
 
