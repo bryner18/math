@@ -1,6 +1,3 @@
-# 12. Leer un número entero de 3 dígitos y determinar si tiene el dígito 1.
-
-
 def main():
     three_digits_one()
 
