@@ -1,5 +1,3 @@
-# 6. Leer un número entero de tres dígitos y mostrar todos los enteros comprendidos entre 1 y cada uno de los dígitos.
-
 import sys
 
 
