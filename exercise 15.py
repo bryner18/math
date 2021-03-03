@@ -1,6 +1,3 @@
-# 15. Escribir en pantalla el resultado de sumar los primeros 20 múltiplos de 3.
-
-
 def main():
     first_20_sum()
 
