@@ -1,5 +1,3 @@
-# 2. Leer un número entero y mostrar todos los pares comprendidos entre 1 y el número leído.
-
 import sys
 
 
